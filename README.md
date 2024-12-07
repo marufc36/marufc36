@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Maruf Chowdhury</h1>
-<h3 align="center">I am a passionate data scientist with a knack for deriving actionable insights from complex datasets. I specialize in leveraging advanced analytics techniques and machine learning algorithms to solve real-world problems and drive informed decision-making. My journey in the realm of data science began with a fascination for uncovering patterns and trends within data. Over the time, I've honed my skills in data wrangling, exploratory data analysis, statistical modeling, and predictive analytics. Whether it's building robust predictive models or developing interactive data visualizations, I thrive on transforming raw data into meaningful narratives.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marufc36&label=Profile%20views&color=0e75b6&style=flat" alt="marufc36" /> </p>
 
